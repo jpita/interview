@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.RegisterUserTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-09-10T20:25:35" hostname="Joses-macbook.local" time="6.925">
+  <properties/>
+  <testcase name="checkWarningsFillingEmptyFormTest" classname="tests.RegisterUserTest" time="0.18"/>
+  <testcase name="checkWarningsFillingFormInvalidDataTest" classname="tests.RegisterUserTest" time="1.516"/>
+  <testcase name="registerValidUserTest" classname="tests.RegisterUserTest" time="1.389"/>
+  <system-out><![CDATA[asd
+asdasd
+pitatest1505075141
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

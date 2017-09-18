@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.GetLoanTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-08-13T22:22:20" hostname="Joses-macbook.local" time="7.778">
+  <properties/>
+  <testcase name="getLoanTest" classname="tests.GetLoanTest" time="7.778"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
