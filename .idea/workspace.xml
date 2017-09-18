@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a08c658-7dd6-4419-aa10-9a1827f95df0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/pages/MembersPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/tests/RegisterBankAccountTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/test/tests/RegisterUserTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/test/java/tests/RegisterUserTest.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/test/pages/LandingPage.class" afterPath="$PROJECT_DIR$/build/classes/test/pages/LandingPage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/test/tests/BaseTest.class" afterPath="$PROJECT_DIR$/build/classes/test/tests/BaseTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readMe.md" afterPath="$PROJECT_DIR$/readMe.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/pages/LandingPage.java" afterPath="$PROJECT_DIR$/src/test/java/pages/LandingPage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" afterPath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
