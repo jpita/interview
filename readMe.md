@@ -27,3 +27,7 @@ Your automated test must
 4. Check that data validation fails when saving. There is one validation on client and one on server.
 5. Add the name "Bank Account Test" and change the account number to 1111 1111 30 1111111111
 6. Save, and check that the new account with all data entered is shown in the Bank Accounts grid.
+
+### SCREEN CAST
+
+https://github.com/jpita/interview/blob/master/sageScreenCast.mov?raw=true
